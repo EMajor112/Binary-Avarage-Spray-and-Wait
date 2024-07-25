@@ -1,0 +1,20 @@
+Message stats for scenario Bubble
+sim_time: 1698181.0000
+created: 846
+started: 357064
+relayed: 354660
+aborted: 2404
+dropped: 355332
+removed: 0
+delivered: 169
+delivery_prob: 0.1998
+response_prob: 0.0000
+overhead_ratio: 2097.5799
+latency_avg: 506077.1538
+latency_med: 496049.0000
+hopcount_avg: 15.2663
+hopcount_med: 8
+buffertime_avg: 17012.1209
+buffertime_med: 215.0000
+rtt_avg: NaN
+rtt_med: NaN

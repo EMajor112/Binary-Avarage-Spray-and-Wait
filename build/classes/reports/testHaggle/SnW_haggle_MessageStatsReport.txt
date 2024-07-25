@@ -1,0 +1,20 @@
+Message stats for scenario SnW_haggle
+sim_time: 86400.0000
+created: 2923
+started: 9731
+relayed: 8322
+aborted: 1409
+dropped: 8975
+removed: 0
+delivered: 859
+delivery_prob: 0.2939
+response_prob: 0.0000
+overhead_ratio: 8.6880
+latency_avg: 6425.4936
+latency_med: 4826.6000
+hopcount_avg: 2.3807
+hopcount_med: 2
+buffertime_avg: 8584.0891
+buffertime_med: 7361.3000
+rtt_avg: NaN
+rtt_med: NaN

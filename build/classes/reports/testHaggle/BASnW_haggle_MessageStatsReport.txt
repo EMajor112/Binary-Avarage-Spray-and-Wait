@@ -1,0 +1,20 @@
+Message stats for scenario BASnW_haggle
+sim_time: 86400.0000
+created: 2923
+started: 9535
+relayed: 8224
+aborted: 1311
+dropped: 8879
+removed: 0
+delivered: 864
+delivery_prob: 0.2956
+response_prob: 0.0000
+overhead_ratio: 8.5185
+latency_avg: 6503.1873
+latency_med: 5415.9000
+hopcount_avg: 2.3495
+hopcount_med: 2
+buffertime_avg: 8661.6431
+buffertime_med: 7588.2000
+rtt_avg: NaN
+rtt_med: NaN
